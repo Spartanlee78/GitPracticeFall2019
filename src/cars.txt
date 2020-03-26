@@ -6,4 +6,5 @@ Bmw x6
 mercedes s500
 Lexus gx470
 Kia optima
+suburu wrx sti
 Honda Civic
